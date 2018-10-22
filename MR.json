@@ -41,6 +41,11 @@
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=114",
                 "id": "114",
                 "icon": "ppilogo.jpg"
+            },{
+                "title": "毓民會客室 第二季",
+                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=178",
+                "id": "178",
+                "icon": "ppilogo.jpg"
             }, {
                 "title": "今晚開你波",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=144",
@@ -117,7 +122,6 @@
                 "id": "12",
                 "icon": "ppilogo.jpg"
             }, {
-<<<<<<< HEAD
                 "title": "建國研習班",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=57",
                 "id": "57",
@@ -136,16 +140,21 @@
                 "title": "玄學天地",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=113",
                 "id": "113",
-=======
+                "icon": "ppilogo.jpg"
+            }, {
                 "title": "玩樂高地",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=107",
                 "id": "107",
                 "icon": "ppilogo.jpg"
             }, {
+                "title": "天地友政氣",
+                "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=175",
+                "id": "175",
+                "icon": "ppilogo.jpg"
+            },{
                 "title": "海外友好網台轉播節目",
                 "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=81",
                 "id": "81",
->>>>>>> c983728a529d6a890ad3d74df3b48190df44ac37
                 "icon": "ppilogo.jpg"
             }]
         }]
